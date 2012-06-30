@@ -1,0 +1,8 @@
+PAT
+===
+
+PAT: Plagiat Auto-Tester
+
+It except a text as entry and will output how much result in Google it finds.
+
+It will dismember your text in word-bloc (20 as default) and will test each "sentence" in Google. It use some kind of auto-modifying user-agent to avoid Google-no-bot.
